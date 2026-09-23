@@ -1,0 +1,26 @@
+# Build output & executables
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.png
+
+# Local configuration, state, and logs (credentials & session data)
+config.json
+state.json
+*.log
+.env
+.env.*
+
+# IDE, editor & OS files
+.vs/
+.vscode/
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
